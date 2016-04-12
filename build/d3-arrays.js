@@ -507,7 +507,7 @@
     return transpose(arguments);
   };
 
-  var version = "0.4.0";
+  var version = "0.4.1";
 
   exports.version = version;
   exports.bisect = bisectRight;
