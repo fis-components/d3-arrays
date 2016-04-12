@@ -1,0 +1,10 @@
+{
+    "name": "d3-arrays",
+    "description": "Array manipulation, ordering, searching, summarizing, etc.",
+    "repos": "https://github.com/d3/d3-arrays.git",
+    "main": "build/d3-arrays.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.4.0"
+}
